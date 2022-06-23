@@ -1,5 +1,7 @@
 # Instagram Clone
-![Visualização do projeto](.github/exemplo-app.png)
+
+![Visualização do projeto](github/exemplo-app.png)
+
 O projeto a acima foi produzido durante o Bootcamp Santander 2022 e tinha como objetivo aperfeiçoar as práticas com CSS puro, com foco no layout Flexbox para ajudar na responsividade da página.
 
 ## Considerações pessoais
